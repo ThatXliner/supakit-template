@@ -1,6 +1,6 @@
 # SvelteKit + Supabase
 
-> With GitHub Actions, TypeScript, ESLint, Prettier, Vitest, and Playwright set up
+> With GitHub Actions (pnpm), TypeScript, ESLint, Prettier, Vitest, and Playwright set up
 
 ## Installation (10 easy steps)
 
